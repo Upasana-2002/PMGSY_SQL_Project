@@ -1,4 +1,12 @@
-# PMGSY Scheme Analysis (SQL Project)
+# PMGSY SQL Project
+
+## 📂 Project Structure
+
+PMGSY-SQL-Project/
+│
+├── pmgsy_scheme.csv # dataset file
+├── analysis_queries.sql # SQL queries
+└── README.md # project description
 
 ## 📌 Project Overview
 This project analyzes the **Pradhan Mantri Gram Sadak Yojana (PMGSY)** scheme dataset using SQL.  
